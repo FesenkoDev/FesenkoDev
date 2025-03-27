@@ -6,12 +6,22 @@
 
 ---
 
-### 🧰 Technologies & Tools:
+### 📚 Currently learning:
 
-- 💻 Java  
-- 🗄️ MySQL  
-- 🔧 Git, GitHub  
-- 📱 Mobile app development
+- ⚙️ **Spring Boot**  
+- ☁️ **Firebase**  
+- 📱 **Flutter**  
+- 🧠 **Software Architecture**
+
+---
+
+### 🧰 Tech Stack:
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
@@ -29,7 +39,16 @@
 
 ---
 
-### 💡 About me:
+### 🗓️ Dev Timeline:
+
+- 🎓 Started CS degree @ HFT Stuttgart
+- 🚀 Learning Java & building mobile apps
+- 🧪 Exploring Flutter & Firebase
+- 👨‍💻 Working on personal projects on GitHub
+
+---
+
+### 🧠 About me:
 
 > I love learning new things, building mobile apps, and growing as a Java developer.  
 > My goal is to become a professional in the IT world and create useful tech for people 🚀
