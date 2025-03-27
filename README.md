@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi there! I'm Vladyslav 👋
 
-<!--
-**FesenkoDev/FesenkoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 My name is **Fesenko Vladyslav**  
+🎓 I'm studying **Computer Science** in Germany 🇩🇪  
+📱 I'm passionate about **mobile development**, **Java**, and **MySQL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Technologies & Tools:
+
+- 💻 Java  
+- 🗄️ MySQL  
+- 🔧 Git, GitHub  
+- 📱 Mobile app development
+
+---
+
+### 📫 Where to find me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vladyslav-fesenko-86831a302)
+
+---
+
+### 📊 GitHub Stats:
+
+![FesenkoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=FesenkoDev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FesenkoDev&layout=compact&theme=tokyonight)
+
+---
+
+### 💡 About me:
+
+> I love learning new things, building mobile apps, and growing as a Java developer.  
+> My goal is to become a professional in the IT world and create useful tech for people 🚀
+
+---
+
+_Thanks for visiting! See you in the code :)_
