@@ -8,10 +8,9 @@
 
 ### 📚 Currently learning:
 
-- **Software Architecture**
-- **Spring Boot**
+- **Software/Hardware Architecture**
 - **Cybersecurity**
-
+- **Networks**
 ---
 
 ### 🧰 Tech Stack:
