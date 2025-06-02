@@ -1,7 +1,7 @@
 ### Hi there! I'm Vladyslav 👋
 
 👨‍💻 My name is **Fesenko Vladyslav**  
-🎓 I'm studying **Computer Science** in Germany 🇩🇪  
+🎓 I'm studying **Computer Science** in Germany  
 📱 I'm passionate about **mobile development**, **Java**, and **MySQL**
 
 ---
