@@ -8,10 +8,9 @@
 
 ### 📚 Currently learning:
 
-- ⚙️ **Spring Boot**  
-- ☁️ **Firebase**  
-- 📱 **Flutter**  
-- 🧠 **Software Architecture**
+- **Software Architecture**
+- **Spring Boot**
+- **Cybersecurity**
 
 ---
 
