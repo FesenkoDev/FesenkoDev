@@ -2,7 +2,7 @@
 
 👨‍💻 My name is **Fesenko Vladyslav**  
 🎓 I'm studying **Computer Science** in Germany  
-📱 I'm passionate about **mobile development**, **Java**, and **MySQL**
+📱 I'm passionate about **Software Development**, **Java**, and **MySQL**
 
 ---
 
