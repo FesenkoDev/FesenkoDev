@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinuxSecurity-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
 
 ---
 
